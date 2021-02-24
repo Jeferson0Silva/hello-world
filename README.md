@@ -1,2 +1,4 @@
 # hello-world
-git guides
+hi guys
+
+I'm here experiencing a little bit of this very curious and interesting area
